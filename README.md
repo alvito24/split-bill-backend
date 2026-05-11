@@ -186,8 +186,6 @@ Backend ini menggunakan **in-memory storage** untuk menyimpan data. Data akan hi
 
 ## 👤 Author
 
-Alvito
+Alvito March Vieri Nanda Sulistyo - EISD - Software Development
 
-## 📄 License
 
-ISC
